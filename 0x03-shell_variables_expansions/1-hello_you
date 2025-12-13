@@ -1,2 +1,2 @@
-chmod +x 1-hello_you
-./1-hello_you
+#!/bin/bash
+echo "hello $USER"
